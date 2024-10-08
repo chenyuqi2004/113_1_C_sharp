@@ -1,0 +1,5 @@
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.Form1.resources
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.CoreCompileInputs.cache

@@ -16,5 +16,35 @@ namespace homework1008
         {
             InitializeComponent();
         }
+
+        private void BtnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            LblShow.Text = "方塊五";
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            LblShow.Text = "梅花十";
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            LblShow.Text = "黑桃K";
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            LblShow.Text = " 黑桃二";
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            LblShow.Text = "方塊六";
+        }
     }
 }

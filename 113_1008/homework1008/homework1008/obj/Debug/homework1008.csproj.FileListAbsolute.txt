@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\bin\Debug\homework1008.exe.config
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\bin\Debug\homework1008.exe
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\bin\Debug\homework1008.pdb
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\obj\Debug\homework1008.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\obj\Debug\homework1008.Form1.resources
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\obj\Debug\homework1008.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\obj\Debug\homework1008.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\obj\Debug\homework1008.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\obj\Debug\homework1008.exe
+C:\Users\shu\Desktop\113_1_C_sharp\113_1008\homework1008\homework1008\obj\Debug\homework1008.pdb
