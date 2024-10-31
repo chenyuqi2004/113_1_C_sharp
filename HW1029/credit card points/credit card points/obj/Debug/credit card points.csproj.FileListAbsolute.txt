@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\bin\Debug\credit card points.exe.config
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\bin\Debug\credit card points.exe
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\bin\Debug\credit card points.pdb
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\obj\Debug\credit card points.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\obj\Debug\credit_card_points.Form1.resources
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\obj\Debug\credit_card_points.Properties.Resources.resources
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\obj\Debug\credit card points.csproj.GenerateResource.cache
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\obj\Debug\credit card points.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\obj\Debug\credit card points.exe
+C:\Users\User\Desktop\113_1_C_sharp\HW1029\credit card points\credit card points\obj\Debug\credit card points.pdb

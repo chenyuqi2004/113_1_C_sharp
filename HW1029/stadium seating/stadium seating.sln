@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stadium seating", "stadium seating\stadium seating.csproj", "{AAB5E36A-67E7-4D3A-9CE3-0F859BBD69CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB5E36A-67E7-4D3A-9CE3-0F859BBD69CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB5E36A-67E7-4D3A-9CE3-0F859BBD69CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB5E36A-67E7-4D3A-9CE3-0F859BBD69CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB5E36A-67E7-4D3A-9CE3-0F859BBD69CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDCE79FB-FB67-47AA-8286-13E66DA0C221}
+	EndGlobalSection
+EndGlobal
