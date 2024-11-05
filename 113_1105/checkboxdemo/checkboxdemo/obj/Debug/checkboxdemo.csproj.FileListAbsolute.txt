@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\bin\Debug\checkboxdemo.exe.config
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\bin\Debug\checkboxdemo.exe
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\bin\Debug\checkboxdemo.pdb
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\obj\Debug\checkboxdemo.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\obj\Debug\checkboxdemo.Form1.resources
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\obj\Debug\checkboxdemo.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\obj\Debug\checkboxdemo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\obj\Debug\checkboxdemo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\obj\Debug\checkboxdemo.exe
+C:\Users\shu\Desktop\113_1_C_sharp\113_1105\checkboxdemo\checkboxdemo\obj\Debug\checkboxdemo.pdb
