@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\bin\Debug\measuring bacterial growth.exe.config
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\bin\Debug\measuring bacterial growth.exe
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\bin\Debug\measuring bacterial growth.pdb
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\obj\Debug\measuring bacterial growth.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\obj\Debug\measuring_bacterial_growth.Form1.resources
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\obj\Debug\measuring_bacterial_growth.Properties.Resources.resources
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\obj\Debug\measuring bacterial growth.csproj.GenerateResource.cache
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\obj\Debug\measuring bacterial growth.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\obj\Debug\measuring bacterial growth.exe
+C:\Users\User\Desktop\113_1_C_sharp\HW1126\measuring bacterial growth\measuring bacterial growth\obj\Debug\measuring bacterial growth.pdb
