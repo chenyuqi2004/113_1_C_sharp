@@ -25,10 +25,15 @@ namespace Friend_File
             try
             {
                 StreamWriter outputFile;
-                outputFile = File.AppendText(@"c:\User\shu\Desktop\Friends.txt");
+                //outputFile = File.AppendText(@"c:\User\shu\Desktop\Friends.txt");
+                outputFile = File.AppendText(@"..\..\..\data\Friends.txt");
                 outputFile.WriteLine(nameTextBox.Text);
                 outputFile.Close();
                 MessageBox.Show("名字已經寫入檔案");
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
 
